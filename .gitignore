@@ -6,4 +6,7 @@
 # ignore checkpoint files
 *.checkpoint.ipynb
 
+# ignore pycache files
+__pycache__
+
 
